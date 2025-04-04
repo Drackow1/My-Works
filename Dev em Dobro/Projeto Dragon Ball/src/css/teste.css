@@ -1,0 +1,16 @@
+/*seletor de tag*/
+p{
+
+}
+/*seletor de classe */
+.cabecalho{
+    background-color: red;
+}
+/*seletor universal*/
+*{
+
+}
+/*seletor de descendente*/
+ul li {
+
+}
